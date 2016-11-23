@@ -41,14 +41,13 @@ Dari pernyataan diatas dapat disimpulkan bahwa vulnerabilities ini merupakan sua
 Saran
 Saran saya sebaiknya pelajari vulnerabilities dengan baik agar dapat memahami cara menggunakannya, akan tetapi kita harus menggunakannya dengan benar agar tidak menyebabkan masalah yang besar dan merugikan orang lain
 
-* Nama : Gilang Romadhanu Tartila
-* NPM : 1144033
+* Nama : Maizar Fernando
+* NPM : 1144109
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Keamanan Jaringan
 
-Link Github : https://github.com/gilangtartila99/SistemKeamananJaringan2016
-
+Link Github : https://github.com/maizar08/sistemkeamananjaringan/
 Referensi : http://gankersmekti.blogspot.co.id/2014/03/makalah-vulnerability.html
 
 Scan Plagiarisme

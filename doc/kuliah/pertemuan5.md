@@ -34,13 +34,13 @@ Saran
 
 Sebaiknya kita menggunakan tabel statis agar tidak dapat diedit dan terhindar dari proses Spoofing
 
-* Nama : Gilang Romadhanu Tartila
-* NPM : 1144033
+* Nama : Maizar Fernando
+* NPM : 1144109
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Keamanan Jaringan
 
-Link Github : https://github.com/gilangtartila99/SistemKeamananJaringan2016
+Link Github : https://github.com/maizar08/sistemkeamananjaringan/
 
 Referensi : 
 

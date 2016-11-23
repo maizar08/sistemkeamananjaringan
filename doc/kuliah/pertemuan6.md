@@ -32,14 +32,13 @@ Dari pernyataan diatas dapat disimpulkan bahwa DOS ini adalah suatu cara seorang
 Saran
 Sebaiknya ketika kita membuat suatu solusi untuk menangani DOS dan DDOS karena saat ini belum ada cara untuk menangani ataupun mencegah sistem DOS dan DDOS tidak terjadi kepada kita
 
-* Nama : Gilang Romadhanu Tartila
-* NPM : 1144033
+* Nama : Maizar Fernando
+* NPM : 1144109
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Keamanan Jaringan
 
-Link Github : https://github.com/gilangtartila99/SistemKeamananJaringan2016
-
+Link Github : https://github.com/maizar08/sistemkeamananjaringan/
 Referensi : 
 
 1. https://id.wikipedia.org/wiki/Serangan_DoS

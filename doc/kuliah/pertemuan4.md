@@ -38,13 +38,13 @@ Saran
 
 Saran saya sebaiknya kita menggunakan proses Sniffing secara selektif, jadi jangan menggunakan proses Sniffing untuk hal – hal yang tidak diperlukan agar tidak merugikan orang lain
 
-* Nama : Gilang Romadhanu Tartila
-* NPM : 1144033
+* Nama : Maizar Fernando
+* NPM : 1144109
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Keamanan Jaringan
 
-Link Github : https://github.com/gilangtartila99/SistemKeamananJaringan2016
+Link Github : https://github.com/maizar08/sistemkeamananjaringan/
 
 Referensi : 
 

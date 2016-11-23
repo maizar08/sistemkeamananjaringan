@@ -44,13 +44,13 @@ Jadi kesimpulannya dari penjelasan diatas bahwa pada ISO Layer dan TCP/IP Layer 
 Saran
 Saran saya sebaiknya pembelajaran tentang ISO Layer dan TCP/IP Layer terus dipelajari dan diingat karena akan selalu digunakan ketika belajar mengenai jaringan
 
-* Nama : Gilang Romadhanu Tartila
-* NPM : 1144033
+* Nama : Maizar Fernando
+* NPM : 1144109
 * Kelas : 3C
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Keamanan Jaringan
 
-Link Github : https://github.com/gilangtartila99/SistemKeamananJaringan2016
+Link Github : https://github.com/maizar08/sistemkeamananjaringan/
 
 Referensi : https://panda94.wordpress.com/2013/01/21/layer-osi-dan-tcp-ip/
 
